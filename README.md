@@ -1,24 +1,18 @@
 # Code Refactor Starter Code
 
-# User story
-* As a marketing agency, I want a codebase that follows accessibility standards, so that the site is optimized for search engines
+# Description
 
-# Acceptance Criteria
-GIVEN a webpage meets accessibility standards
+This website provide information for a marketing agency who wants to start or improve the bussiness by using the advantage of online marketing strategies. It contains how to find the rights customer, manage reputation and social media marketing.
 
-* WHEN I view the source code
-THEN I find semantic HTML elements
- 
-* WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+# Installation 
+N/A
 
-* WHEN I view the image elements
-THEN I find accessible alt attributes
+# Usage
+N/A
 
-* WHEN I view the heading attributes
-THEN they fall in sequential order
+# Credits
+N/A
 
-* WHEN I view the title element
-THEN I find a concise, descriptive title 
-
+# License
+Please refer to the LICENSE in the repo.
 
